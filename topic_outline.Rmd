@@ -1,0 +1,61 @@
+---
+title: "topic_outline"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Things psychologists would benefit from knowing more about
+
+- What are the different measures measuring
+    - Brain activity
+        - EEG
+        - fMRI
+        - PET
+    - Brain structure
+        - Structural MRI
+        - DTI
+    - Body status
+        - ECG + respiration
+        - EGG, EDR
+        - Endocrine
+        - EMG
+    - Body position (behavior)
+        - Gaze tracking
+        - Kinematic measurements
+            - Optical
+            - EM
+        - Force platforms, devices
+        - Video/audio
+        - Button presses, mouse movements
+        - Verbal responses
+    - Inferred internal states
+- Ideas from physics/math/engineering
+    - State spaces
+    - Configuration of body (joint angle space)
+        - Kinematics
+        - Kinetics
+        - Dynamics
+            - State spaces, attractors, etc.
+    - Electromagnetism
+        - In neurons
+            - Resistance/conductance, capacitance, current, voltage, inductance
+        - re: MRI, EEG
+        - Properties of EM as source of information about environment (vision, electroreception, magnetoreception)
+    - Time domain, frequency domain, FFT
+        - Waves
+        - Mechanical waves as source of information about environment (sound, touch)
+    - Derivatives, integrals, differential equations
+    - Network science
+        - The importance of the connectome
+        - The relative unimportance of the connectome
+            - What is the connectivity function? Across time...
+    - Digital vs. analog computing
+- Some basic ideas in ethology
+    - Ingestion, defense, reproduction
+    - Maximize reproductive success
+    - Foraging (maximize food/info intake, minimize energy expenditure)
