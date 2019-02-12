@@ -49,6 +49,7 @@ knitr::opts_chunk$set(echo = TRUE)
     - Time domain, frequency domain, FFT
         - Waves
         - Mechanical waves as source of information about environment (sound, touch)
+        - filters (low pass, high pass, bandpass)
     - Derivatives, integrals, differential equations
     - Network science
         - The importance of the connectome

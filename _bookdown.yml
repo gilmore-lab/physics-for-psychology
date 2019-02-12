@@ -1,0 +1,6 @@
+---
+site: "bookdown::bookdown_site"
+output:
+  bookdown::pdf_book:
+    keep_tex: yes
+---

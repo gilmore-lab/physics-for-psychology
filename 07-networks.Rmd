@@ -1,0 +1,23 @@
+# Networks
+
+## Graphs
+
+### Parts
+
+### As tools
+
+- What are the nodes
+- What are the edges
+- How to represent
+
+## Graphs in behavior
+
+### Causal modeling
+
+### Spatial maps
+
+## Graphs in the nervous system
+
+### Connectome
+
+### Neural networks

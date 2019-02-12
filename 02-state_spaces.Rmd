@@ -1,0 +1,49 @@
+# State of Mind
+
+- Behavior
+- State spaces
+- Configuration of body (joint angle space)
+        
+The challenge of studying the unmeasurable or weakly measurable.
+        
+## Levels of analysis
+
+### Spatial
+
+### Temporal
+
+## How many states?
+
+### External
+
+#### Body
+
+- Body position
+    - Joint angles?
+    - Contact points with surfaces?
+    - Frames of reference
+- Allocentric position
+    - With respect to environment
+    - With respect to other animals
+- Facing
+    - Looking
+        - Eye/head direction
+- Moving/not moving
+- Alive/dead
+- Species
+    - Conspecific/non
+        - Familiar/non
+        - Kin/non
+    - Predator/prey
+- Gender/sex
+    - Reproductive status
+- Age?
+- Cultural
+    - Race, ethnicity
+    - Parental status (not always observable)
+    - Employment
+    - Language(s) understood, spoken
+
+### Internal
+
+- (Often) unmeasurable mental/emotional states)

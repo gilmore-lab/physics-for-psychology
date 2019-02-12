@@ -1,0 +1,22 @@
+# Statics and kinematics
+
+## Forces
+
+### Gravity
+
+Most creatures on Earth live in an environment where the force of gravity, both in magnitude and direction, is constant.
+
+- Center of mass
+- Moment of inertia
+    - Animals change shape and thereby shift their centers of mass and change the inertia tensor.
+
+### Friction
+
+Without friction, land animals would never move.
+
+### Air/fluid pressure
+
+- Locomotion via fluid media
+    - Differs from boats -- biological entities don't have independently moving parts, topologically simple (no holes like jet engines)
+
+### Lift/buoyancy

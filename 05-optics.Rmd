@@ -1,0 +1,22 @@
+# All in the optics
+
+## Properties
+
+- Wavelength, frequency, speed
+- Velocity factor
+
+## Optics in the brain
+
+- NIRs
+- Microscopy
+- Optogenetics
+
+## Optics in behavior
+           
+- How do behaviorally relevant properties create information in light?
+- Pattern vision
+- Temporal vision (circadian rhythms)
+- Observational learning
+- Detecting physiological states
+    - Photoplethysmography
+    - Video plethysmography

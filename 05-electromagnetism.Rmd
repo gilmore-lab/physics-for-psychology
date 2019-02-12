@@ -1,0 +1,17 @@
+# It's electric
+
+## Properties
+
+- Current, voltage, resistance, capacitance, inductance
+
+## Electricity and magnetism in the brain
+
+- In neurons
+- Seizure
+- EEG/ERP
+- MRI
+- MEG
+
+## Electricity and magnetism in behavior
+           
+- Properties of EM as source of information about environment (vision, electroreception, magnetoreception)

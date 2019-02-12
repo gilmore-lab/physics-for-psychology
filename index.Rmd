@@ -1,0 +1,10 @@
+---
+title: "Physics for Psychologists"
+author: "Rick O. Gilmore"
+date: "`r Sys.time()`"
+documentclass: book
+---
+
+# Preface {-}
+
+In this book, we will describe some concepts from physics that students of behavioral science may find useful.

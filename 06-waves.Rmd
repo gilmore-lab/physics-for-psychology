@@ -1,0 +1,18 @@
+# Waves
+
+## Changes in time and space
+
+- Time domain, frequency domain, FFT
+    - Waves
+    - Mechanical waves as source of information about environment (sound, touch)
+    - filters (low pass, high pass, bandpass)
+
+## Wave phenomena in behavior
+
+### Vision
+
+### Audition
+
+### Somatosensation
+
+### Neuronal rate and timing codes

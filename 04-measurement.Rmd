@@ -1,0 +1,26 @@
+# Measurement
+
+- What are the different measures measuring
+    - Brain activity
+        - EEG
+        - fMRI
+        - PET
+    - Brain structure
+        - Structural MRI
+        - DTI
+    - Body status
+        - ECG + respiration
+        - EGG, EDR
+        - Endocrine
+        - EMG
+    - Body position (behavior)
+        - Gaze tracking
+        - Kinematic measurements
+            - Optical
+            - EM
+        - Force platforms, devices
+        - Video/audio
+        - Button presses, mouse movements
+        - Verbal responses
+    - Inferred internal states
+        - Questionnaires

@@ -1,0 +1,10 @@
+# Useful mathematics
+
+## Trigonometry/geometry
+
+## Vectors
+
+## Calculus
+
+## Differential equations
+
